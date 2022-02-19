@@ -1,0 +1,14 @@
+{
+  "id" : "2caada5b-9454-443c-a3f3-802e768ae172",
+  "request" : {
+    "url" : "/get/this",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "Here it is!\n"
+  },
+  "uuid" : "2caada5b-9454-443c-a3f3-802e768ae172",
+  "persistent" : true,
+  "insertionIndex" : 0
+}
